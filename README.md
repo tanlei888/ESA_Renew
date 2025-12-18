@@ -36,7 +36,7 @@
 ## 🚀 快速开始
 
 ### 1. 环境要求
-* **PHP 版本**：PHP 7.4 或更高版本（实测 PHP 7.2+ 配合补丁也能运行，建议 8.0+）。
+* **PHP 版本**：PHP 7.4 。
 * **PHP 扩展**：需开启 `curl` 和 `openssl` 扩展。
 * **Web 服务器**：Nginx、Apache 或 OpenLiteSpeed 均可。
 
